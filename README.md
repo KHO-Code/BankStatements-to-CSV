@@ -10,7 +10,8 @@ Install the solution file and the three pdfs (bankA, bankB, bankC)
 (it is probably in the same directory but the pdfs must be in the same directory as the python file for the code to work)
 
 Running the python file on terminal:
-    Change Directory(cd) to the 4 files
+
+    change Directory(cd) to the 4 files
     python3 EasyTrackTask.py
 
     Type in one the following banks for example "bankA.pdf"
