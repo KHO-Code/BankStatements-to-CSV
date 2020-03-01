@@ -18,6 +18,7 @@ Running the python file on terminal:
     in the input without the quotations.
 
     Repeat this process for the other two banks to recieve the solution files.
+    (I would open the csv files through Microsoft Excel)
 
 
 
