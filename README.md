@@ -1,3 +1,5 @@
+# Converts Bank Statements PDF to CSV using Python
+
 # Instructions
 
 (install related dependencies according to libraries)
