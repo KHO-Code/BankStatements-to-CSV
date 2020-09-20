@@ -1,4 +1,6 @@
-# Converts Bank Statements PDF to CSV using Python
+
+Converts different types of bank statements pdf to CSV files using Python
+
 
 # Instructions
 
