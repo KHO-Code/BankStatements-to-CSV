@@ -16,7 +16,7 @@ Install the solution file and the three pdfs (bankA, bankB, bankC)
 Running the python file on terminal:
 
     change Directory(cd) to the 4 files
-    python3 pdfConvert.py
+    python3 pdfConverter.py
 
     Type in one the following banks for example "bankA.pdf"
     in the input without the quotations.
